@@ -2,6 +2,7 @@
 
 This project is a simple Pokémon listing application built with React, Material-UI, and the PokéAPI. It allows users to view Pokémon cards, filter them by name, and display relevant details such as type and image.
 
+![](https://github.com/shirlyalima/Pokedex/blob/286ce01ceae154938aa7476941d6e004ebec776c/exemplo%20do%20projeto.gif)
 ## Features
 
 - **Pokémon Listing**: Displays a grid of Pokémon cards fetched from the PokéAPI.
